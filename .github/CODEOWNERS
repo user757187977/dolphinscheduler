@@ -1,0 +1,48 @@
+#
+# Licensed to the Apache Software Foundation (ASF) under one or more
+# contributor license agreements.  See the NOTICE file distributed with
+# this work for additional information regarding copyright ownership.
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+
+/.github/ @kezhenxu94 @SbloodyS
+/deploy/ @kezhenxu94 @caishunfeng
+/dolphinscheduler-alert/ @kezhenxu94 @caishunfeng
+/dolphinscheduler-e2e/ @kezhenxu94 @SbloodyS
+/dolphinscheduler-api-test/ @SbloodyS
+/dolphinscheduler-registry/ @kezhenxu94 @caishunfeng @ruanwenjun
+/dolphinscheduler-api/ @caishunfeng @SbloodyS
+/dolphinscheduler-dao/ @caishunfeng @SbloodyS
+/dolphinscheduler-dao/src/main/resources/sql/ @zhongjiajie
+/dolphinscheduler-common/ @caishunfeng
+/dolphinscheduler-standalone-server/ @kezhenxu94 @caishunfeng
+/dolphinscheduler-datasource-plugin/ @caishunfeng
+/dolphinscheduler-dist/ @kezhenxu94 @caishunfeng
+/dolphinscheduler-meter/ @caishunfeng @kezhenxu94 @ruanwenjun @EricGao888
+/dolphinscheduler-scheduler-plugin/ @caishunfeng
+/dolphinscheduler-master/ @caishunfeng @SbloodyS @ruanwenjun
+/dolphinscheduler-worker/ @caishunfeng @SbloodyS @ruanwenjun
+/dolphinscheduler-service/ @caishunfeng
+/dolphinscheduler-remote/ @caishunfeng
+/dolphinscheduler-spi/ @caishunfeng
+/dolphinscheduler-task-plugin/ @caishunfeng @SbloodyS @zhuangchong
+/dolphinscheduler-tools/ @caishunfeng @SbloodyS @zhongjiajie @EricGao888
+/script/ @caishunfeng @SbloodyS @zhongjiajie @EricGao888
+/dolphinscheduler-ui/ @songjianet @Amy0104
+/docs/ @zhongjiajie @Tianqi-Dotes @EricGao888
+/licenses/ @kezhenxu94 @zhongjiajie
+/images/ @zhongjiajie @Tianqi-Dotes @EricGao888
+/style/ @caishunfeng
+
+# All pom files
+pom.xml @kezhenxu94
